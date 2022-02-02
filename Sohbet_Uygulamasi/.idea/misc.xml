@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.2355" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/drawable/alici_mesajlari_layout.xml" value="0.191" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/drawable/gonderen_mesajlari_layout.xml" value="0.21" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/drawable/ic_baseline_brightness_1_24.xml" value="0.1905" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/drawable/ic_kullanici_durum.xml" value="0.1905" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1905" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/drawable/ic_person_blue.xml" value="0.1905" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/actionbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_arkadas_bul.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_ayarlar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_giris.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_kayit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_mesaj.xml" value="0.264" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_profil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/activity_resim_gosterme.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/alici_mesajlari_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/fragment_arkadaslar.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/fragment_istekler.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/fragment_mesajlar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/kullanici_gosterme_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/ozel_sohbet_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/layout/ozel_sohbet_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ysd58/AndroidStudioProjects/Sohbet_Uygulamasi/app/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

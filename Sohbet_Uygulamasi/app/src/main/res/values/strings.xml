@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sohbet_Uygulamasi</string>
+    <string name="txt_uygulama_isim">Uygulamaya Hoş Geldiniz Sohbet Etmeye Başlamak İçin Hesabın Yoksa Hemen Kayıt Ol</string>
+    <string name="txt_hesap_olustur">Hesap Oluştur</string>
+    <string name="btn_hesabim_var">Hesabım Var</string>
+    <string name="txt_yeni_hesap_olustur">Yeni Hesap Oluştur</string>
+    <string name="txt_kullanici_adi">Kullanıcı Adı</string>
+    <string name="txtplain_kullanici_adi">Kullanıcı Adı</string>
+    <string name="btn_hesap_olustur" />
+    <string name="btn_hesap_olusturma">Hesabı Oluştur</string>
+    <string name="txtplain_password">Şifre</string>
+    <string name="txtplain_email">E Posta</string>
+    <string name="txt_sifre">Şifre</string>
+    <string name="txt_email">E posta</string>
+    <string name="txt_girisyap">Giriş Yap</string>
+    <string name="btn_girisyap">Giriş</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logaut">Çıkış Yap</string>
+    <string name="menu_item_cikis">Çıkış Yap</string>
+    <string name="arkadas">Arkadaşlar</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="ark_kullanici_adi">Kullanıcı Adı</string>
+    <string name="profil_kullanici_adi">Kullanıcı Adı</string>
+    <string name="profil_kullanici_durum">Sohbet Uygulaması Kullanıyorum</string>
+    <string name="btn_profil_mesaj_talebi_gonder">Mesaj Talebi Gönder</string>
+    <string name="btn_profil_mesaj_talebi_iptal">Mesaj Talebi İptal</string>
+    <string name="txt_kullanici_durumu_goster">Kullanıcı Durumu</string>
+    <string name="btn_kabul">Kabul</string>
+    <string name="btn_iptal">İptal</string>
+    <string name="txt_girilen_mesaj">Mesaj Yazın</string>
+    <string name="txt_mesaj_girin">Mesaj Yazın</string>
+    <string name="txt_chat_isim">İsim</string>
+    <string name="txt_son_gorulme">Son Görülme</string>
+    <string name="btn_files" />
+    <string name="txt_alici_mesaji">alıcı mesajı burada</string>
+    <string name="txt_gonderen_meaji">gönderen mesajı burada</string>
+</resources>

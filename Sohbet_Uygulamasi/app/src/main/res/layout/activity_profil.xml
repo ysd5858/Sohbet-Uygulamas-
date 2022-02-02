@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfilActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profil_resmi_ziyaret"
+        android:src="@drawable/person"
+        android:layout_marginTop="110dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_width="210dp"
+        android:layout_height="210dp" />
+
+    <TextView
+        android:id="@+id/kullanici_adi_ziyaret"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profil_resmi_ziyaret"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="18dp"
+        android:text="@string/profil_kullanici_adi"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/profil_durumu_ziyaret"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/kullanici_adi_ziyaret"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="18dp"
+        android:text="@string/profil_kullanici_durum"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mesaj_gonderme_talebi_buttonu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/profil_durumu_ziyaret"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/ic_launcher_background"
+        android:text="@string/btn_profil_mesaj_talebi_gonder"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/mesaj_degerlendirme_talebi_buttonu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/mesaj_gonderme_talebi_buttonu"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/ic_launcher_background"
+        android:text="@string/btn_profil_mesaj_talebi_iptal"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+
+</RelativeLayout>

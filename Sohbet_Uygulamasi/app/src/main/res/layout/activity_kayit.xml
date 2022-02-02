@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Kayit_Activity">
+
+    <include
+        android:id="@+id/actbarkayit"
+        layout="@layout/actionbar" />
+
+    <TextView
+        android:id="@+id/txt_yeni_hesap_olustur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="80dp"
+        android:text="@string/txt_yeni_hesap_olustur"
+        android:textSize="40sp" />
+
+    <EditText
+        android:id="@+id/txtplain_sifre_kayit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_sifre_kayit"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:text="@string/txtplain_password" />
+
+    <EditText
+        android:id="@+id/txtplain_email_kayit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_email_kayit"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:minHeight="48dp"
+        android:text="@string/txtplain_email" />
+
+    <TextView
+        android:id="@+id/txt_sifre_kayit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtplain_email_kayit"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/txt_sifre" />
+
+    <TextView
+        android:id="@+id/txt_email_kayit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_yeni_hesap_olustur"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/txt_email" />
+
+    <Button
+        android:id="@+id/btn_create_new_account_kayit"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:backgroundTint="#03A9F4"
+        android:textColor="@color/white"
+        android:text="@string/btn_hesap_olusturma" />
+
+</RelativeLayout>
